@@ -4,7 +4,7 @@
 #
 Name     : libstaroffice
 Version  : 0.0.6
-Release  : 1
+Release  : 2
 URL      : https://dev-www.libreoffice.org/src/libstaroffice-0.0.6.tar.xz
 Source0  : https://dev-www.libreoffice.org/src/libstaroffice-0.0.6.tar.xz
 Summary  : A library for reading StarOffice documents
