@@ -1,3 +1,66 @@
+2020-04-04  Laurent Alonso(fr)  <alonso.laurent@gmail.fr>  [406467372b14d367ab87f85f15a2caa458db0b15]
+
+tprepare a release...
+
+
+2020-04-04  Laurent Alonso(fr)  <alonso.laurent@gmail.fr>  [710bcf9804afeb45bcf464ddf51486751157cf0f]
+
+tcoverity: fix some warnings...
+
+
+2020-04-04  Laurent Alonso(fr)  <alonso.laurent@gmail.fr>  [08cebb49730e23bf9f986e33db13ccd2530a3601]
+
+tcppcheck: remove some warnings...
+
+
+2020-03-12  fosnola  <fosnola@users.noreply.github.com>  [20c5a2c0b748b51082aa8ec391c2657c96dd8b5c]
+
+tMerge pull request #8 from lwhsu/clang10
+
+tFix build with clang 10.0.0
+2020-03-12  Li-Wen Hsu  <lwhsu@lwhsu.org>  [d833a108dbb759137878722b3892bea91d36972e]
+
+tFix build with clang 10.0.0
+
+tObtained from:	https://bugs.freebsd.org/244402
+
+2020-01-14  Caolán McNamara  <caolanm@redhat.com>  [de598dd92dcc19c969e9f28648762aeee1806b63]
+
+ttext:send-lastname should be text:sender-lastname
+
+tas detected by LibreOffice crashtesting
+
+2019-10-23  Stephan Bergmann  <sbergman@redhat.com>  [75c43a0ff17609d1b4065a1a12a2c2735f33a758]
+
+tSubject: [PATCH] Fix equality operator arguments   to avoid overload resolution ambiguities in C++20...
+
+
+2019-02-12  Miklos Vajna  <vmiklos@collabora.com>  [93be374b1077e028df2c59f01ce6f91f1ab8d0fd]
+
+tFix too small loop variables
+
+tThese loop variables had narrower type than the iteration's upper bound.
+
+2018-09-14  osnola  <alonso@loria.fr>  [009037d20522187ce40afeb6fcd8650f7750e26a]
+
+tuse explicit unsigned char to read/store record's type...
+
+
+2018-05-05  David Tardon  <dtardon@redhat.com>  [6cf476b7449831d340ec54bd87d653d53209a0cf]
+
+tdisable werror by default
+
+
+2018-04-26  David Tardon  <dtardon@redhat.com>  [d6c34e98a6adb060ad42b9f1c60a1e8036bc27ff]
+
+tadd missing include for std::max
+
+
+2018-04-25  osnola  <alonso@loria.fr>  [5eac7e4d37c7ebd75ca7a477611c42f442e3ca06]
+
+tcppcheck: correct some warnings...
+
+
 2018-04-25  osnola  <alonso@loria.fr>  [a321ca69c34729f4a0d0599ac1da09f0d53f6602]
 
 tconfigure.ac: change minor version to prepare a release...
